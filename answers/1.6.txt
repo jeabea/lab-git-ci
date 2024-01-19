@@ -1,0 +1,2 @@
+git branch #équivalent à git branch --list 
+git branch -a #affiche les branches distantes également  
